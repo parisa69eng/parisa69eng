@@ -81,11 +81,14 @@ Repository: [Enterprise AI Assistant](https://github.com/parisa69eng/enterprise-
 - Healthcare insurance application backends
 - AI tools for document search and summarization
 
-## GitHub Stats
+  
+## GitHub Activity
 
-![Parisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parisa69eng&show_icons=true&theme=default)
+I regularly work on Python, AI, backend development, and machine learning projects.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parisa69eng&layout=compact&theme=default)
+You can explore my repositories here:
+
+[github.com/parisa69eng](https://github.com/parisa69eng)
 
 ## Connect
 
